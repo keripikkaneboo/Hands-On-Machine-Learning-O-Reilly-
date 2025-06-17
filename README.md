@@ -1,4 +1,4 @@
-Rangkuman per-bab dari Repositori ini.
+<img src="https://github.com/keripikkaneboo/Hands-On-Machine-Learning-O-Reilly-/blob/main/COVER.jpg" width="300" alt="Book Cover">
 
 
 ## Bagian I: The Fundamental of Machine Learning
